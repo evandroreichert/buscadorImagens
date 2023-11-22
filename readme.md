@@ -6,14 +6,6 @@ Um buscador de imagens simples para nossa turma do Entra21, que consome a API da
 
 ![Preview do Buscador de Imagens E21](preview.gif)
 
-## Como usar
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/buscador-de-imagens-e21.git
-   ```
-
 ## Configuração da API
 
 Certifique-se de configurar corretamente a chave da API da Unsplash. Você pode obter uma chave [aqui](https://unsplash.com/developers).
