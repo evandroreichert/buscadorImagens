@@ -1,8 +1,3 @@
-// 1 - pegar botão, input e div - result
-// 2 - ao clicar no botao - dar fetch no backend (api/photos)
-// 3 - para cada foto, criar um container (div) e criar uma img
-// 4 - acrescentar a img ao container, e acrescenter o container ao result
-
 const btn = document.querySelector('#search')
 const result = document.querySelector('#result')
 
