@@ -1,10 +1,4 @@
-// 1 - iniciar o server - express
-// 2 - dotenv - api key
-// 3 - middleware - cors
-// 4 - criar rota /api/photos - dar fetch na api
-
 import express from 'express'
-import fetch from 'node-fetch'
 import dotenv from 'dotenv'
 
 dotenv.config()
